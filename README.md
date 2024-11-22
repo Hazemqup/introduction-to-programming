@@ -4,3 +4,4 @@
 3. Conditional statements and Logical Operators assessment 3
 4. Loops assessment 4
 5.  Functions
+6. Data Structures (Lists)
